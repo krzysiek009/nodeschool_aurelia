@@ -1,0 +1,9 @@
+Now that you know the basics of binding, let's get more familiar with the routing. 
+
+There are files created for 3 components. By convention it's an HTML file for the template and a JS file for the View Model.
+
+Our form from the previous step is now available in the 'welcome' component.
+
+Add a routing configuration to the app with routes corresponding to the components' names in app.js and look at app.html.
+
+Reference: http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/cheat-sheet/7
