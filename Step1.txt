@@ -1,0 +1,5 @@
+You have the basis of the app up and running.
+
+Try out the binding features of Aurelia, by modifying the app.html template to bind to properties and functions in the view model.
+
+Check out http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/cheat-sheet/5 for reference.
