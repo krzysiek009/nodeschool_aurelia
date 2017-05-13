@@ -1,0 +1,12 @@
+We have the routing configured, but no one wants to have to type the routes by hand.
+
+Let's add a navigation bar. The nav-bar component file is prepared. 
+
+That's right, just one file - all the data comes from the router, that is called an HTML-only element.
+( for the very curious https://github.com/aurelia/templating/blob/master/doc/article/en-US/templating-html-behaviors-introduction.md#html-only-custom-elements)
+
+Add it to the app.html file and use the repeat behaviour to loop over the routes.
+
+Reference:
+http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/cheat-sheet/4
+http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/cheat-sheet/6
