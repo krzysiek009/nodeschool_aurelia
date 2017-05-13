@@ -1,0 +1,5 @@
+We have our app ready. Let's turn it into a Progressive Web App!
+
+From now on, look at the webpack.config.babel.js file at each step and make necessary modifications. 
+
+Reference: https://codelabs.developers.google.com/codelabs/your-first-pwapp/#5

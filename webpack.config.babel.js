@@ -118,7 +118,19 @@ let config = generateConfig(
       patterns: [
         {
           from: 'favicon.ico', to: 'favicon.ico'
-        }
+        },
+        // {
+        //   from: 'service-worker.js', to: 'service-worker.js'
+        // },
+        // {
+        //   from: 'index.js', to: 'index.js'
+        // },
+        // {
+        //   from: 'images', to: 'images'
+        // },
+        // {
+        //   from: 'manifest.json', to: 'manifest.json'
+        // }
       ]
     })
   ] : [
