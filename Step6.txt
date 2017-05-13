@@ -1,0 +1,9 @@
+The last Aurelia topic we are going to cover are Custom Attributes.
+
+Look at the users.html file. There's a canvas element added, but something else related to the Custom Attribute is missing.
+
+The rest of the instructions are in blur-image.js.
+
+Reference: http://aurelia.io/hub.html#/doc/article/aurelia/templating/latest/templating-custom-attributes/4
+
+Have you heard about?:https://www.w3schools.com/jsref/prop_img_complete.asp
