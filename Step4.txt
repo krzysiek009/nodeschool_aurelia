@@ -1,0 +1,11 @@
+Time to get to know the Fetch method.
+
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
+Aurelia comes with a polyfill for browsers that don't yet support it and it's the recommended way of getting resources.
+
+That is convenient, because that's also what Service Workers are using - keep that in mind for later.
+
+Modify users.js according to the comment. Be sure to check it out again in the next step to see the async/await version.
+
+Reference: http://aurelia.io/hub.html#/doc/article/aurelia/fetch-client/latest/http-services/2
